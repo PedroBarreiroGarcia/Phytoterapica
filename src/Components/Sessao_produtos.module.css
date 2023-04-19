@@ -1,0 +1,31 @@
+
+.quadrinho{
+    width: 290px;
+    height: 380px;
+    background-color: white;
+    text-align:unset;
+    box-sizing: border-box;
+}
+
+.imgCard{
+    width: 100%;
+    height: 270px;
+}
+
+.DescricaoProduto{
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.textoValor{
+    font-size: 17px;
+    color: #98b020;
+    font-weight:900;
+    margin: 0;
+}
+
+.textoParcelamento{
+    font-size: 15px;
+    color: #666363;
+    margin: 0;
+}

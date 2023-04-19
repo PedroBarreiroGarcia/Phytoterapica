@@ -1,0 +1,124 @@
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+}
+
+.AreaGeralFooter{
+    width: 100%;
+    height: 150px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.areaSuporteFooter{
+    width: 20%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.TextoSuporteFooter{
+    font-size: 20px;
+    color: #666363;
+    margin:1px ;
+}
+
+.TextoSuporte{
+    font-size: 13px;
+    color: #666363;
+    margin: 2px;
+}
+
+.AreaImg{
+    width: 30%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.areaPagamentos{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    margin: auto;
+}
+
+.ImgPagamentos{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.logoPagamento{
+    width: 15%;
+    height: 25px;
+    margin-top: 5px;
+}
+
+.areaRedesSociais{
+    width: 80%;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.AreaTextoRedes{
+    width: 100%;
+    height: 20px;
+}
+
+.TextoFooter{
+    font-size: 15px;
+    color: #666363;
+}
+
+.ImgRedesSociais{
+    width: 70%;
+    height: 30px;
+    display: flex;
+    margin-top: 15px;
+}
+
+.iconeRedeSocial{
+    width: 30%;
+    height: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.linhaDivisoriaFooter{
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px solid #ccc8c8;
+    margin-top: 30px;
+}
+
+.areaTextos{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.TextoDireitosAutorais{
+    font-size: 11px;
+    color: #000000;
+    font-weight: 600;
+}

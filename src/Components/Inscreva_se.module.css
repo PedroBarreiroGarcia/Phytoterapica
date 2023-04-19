@@ -1,0 +1,67 @@
+.area_inscreva_se{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(241, 238, 238);
+    border-bottom: 1px solid #ccc8c8;
+    margin-top: 40px;
+}
+
+.espaco_inscreva_se{
+    width: 80%;
+    height: 120px;
+    margin: auto;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.espacoTexto{
+    width: 20%;
+    height: 120px;
+    align-items: center;
+}
+
+.text_inscreva_maior{
+    font-size: 20px;
+    margin: 25px 0 -5px 0;
+}
+
+.text_inscreva_menor{
+    font-size: 13px;
+    color: #868181;
+}
+
+.espaco_holder{
+    width: 50%;
+    margin-left: 20px;
+}
+
+.barra_email{
+    width: 100%;
+    height: 50px;
+    color:#868181;
+    box-sizing: border-box;
+    border-radius: 50px;
+    outline: 0;
+    border: 1px solid #ccc8c8;
+    padding-left: 20px;
+}
+
+.assinar{
+    width: 20%;
+    height: 50px;
+    background-color: #98b020;
+    border-radius: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.texto_assinar{
+    font-size: 14px;
+    color: #fff;
+}

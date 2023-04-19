@@ -1,0 +1,52 @@
+.sessao_btn{
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: -40px;
+}
+
+.area_btn{
+    width: 40%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 20px;
+}
+
+.btn1,.btn2{
+    width: 45%;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: 1px solid #9c9696;
+    color: #9c9696;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn1:hover{
+    border: 1px solid #000;
+    color: #000;
+}
+
+.btn2:hover{
+    border: 1px solid #000;
+    color: #000;
+}
+
+.texto_btn{
+    font-size:17px;
+    margin-left: 15px;
+}
+
+.btn1,.btn2 i{
+    padding: 25px;
+}
+
