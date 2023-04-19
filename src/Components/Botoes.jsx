@@ -7,7 +7,7 @@ function Botoes(){
             <div className={style.area_btn}>
                 <div className={style.btn1}>
                     <h1 className={style.texto_btn}>FILTRAR</h1>
-                    <i class="fa-solid fa-filter fa-2x"></i>
+                    <i class="fas fa-light fa-sliders fa-2x"></i>
                 </div>
                 <div className={style.btn2}>
                     <h1 className={style.texto_btn}>ORDENAR POR</h1>
