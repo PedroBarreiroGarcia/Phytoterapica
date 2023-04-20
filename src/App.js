@@ -21,7 +21,7 @@ function App() {
       <div className="sessao_produtos">
         
         <div className="container" > 
-          <Sessao_produtos foto="http://localhost:3000/oleo_lavanda.webp" descricaoProduto="Óleo Essencial de Lavanda (gt. França) - 10ml" valor="R$ 60,00" parcelamento="(ou em até 3x de R$ 20,00 sem juros)" />
+          <Sessao_produtos foto="http://localhost:3000/oleo_lavanda.svg" descricaoProduto="Óleo Essencial de Lavanda (gt. França) - 10ml" valor="R$ 60,00" parcelamento="(ou em até 3x de R$ 20,00 sem juros)" />
 
           <Sessao_produtos foto="http://localhost:3000/oleo_alecrim_5ml.webp" descricaoProduto="Óleo Essencial de Alegrim (qt. Cineol) - 5ml" valor="R$ 28,00" parcelamento="(ou em até 3x de R$ 9,33 sem juros)" />
 
